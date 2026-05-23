@@ -1,4 +1,4 @@
-# Mutual Exclusion Cases
+# Concurrent Programming Tests
 
 A Java project to demonstrate and test common mutual exclusion algorithms and their potential failures in concurrent environments.
 
